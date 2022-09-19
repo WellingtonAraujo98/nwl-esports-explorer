@@ -1,0 +1,18 @@
+# NWL eSports 
+![preview](./.github/preview.png)
+
+> trilha Explorer
+
+Projeto construído do evendo Next Level Week da Rocketseat
+
+[Clique aqui para acessar] (https://WellingtonAraujo.github.io/nwl-esports-explorer)
+
+## Tecnologias
+
+- HTML
+- CSS
+- GIT e GitHub
+
+## Contato
+
+wellington.a14@hotmail.com
